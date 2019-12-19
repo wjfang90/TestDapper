@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestDapper
 {
-    public class Comment
+    public class Content
     {
         /// <summary>
         /// 主键

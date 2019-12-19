@@ -287,3 +287,8 @@ error/
 UploadFiles/
 upload/
 PublishProfiles/
+TestDapper/obj/project.assets.json
+TestDapper/obj/TestDapper.csproj.nuget.cache
+TestDapper/obj/TestDapper.csproj.nuget.g.props
+TestDapper/obj/Debug/netcoreapp2.1/TestDapper.assets.cache
+TestDapper/obj/Debug/netcoreapp2.1/TestDapper.csprojAssemblyReference.cache
